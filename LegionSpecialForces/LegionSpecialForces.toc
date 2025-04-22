@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Legion Special Forces
+## Version: 1.0
+## Author: rbaru
+
+embeds.xml
+Locales\Load.xml
+LegionSpecialForces.lua
